@@ -1,1 +1,3 @@
 .idea
+docker-compose.wikibase-network-extension.yaml
+.env
